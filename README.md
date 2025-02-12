@@ -17,12 +17,13 @@ This project is part of the first phase of the program, serving as a practical e
 ---
 
 ## Key Features
-Environmental temperature and humidity monitoring (DHT22 sensor).
-Personalized coffee customization: strength, temperature, and quantity.
-Coffee grinding and brewing simulation.
-Scheduled or immediate coffee preparation.
-Status indication on an LCD display and LED bar.
-Remote control for user interaction.
+- Environmental temperature and humidity monitoring (DHT22 sensor).
+- Personalized coffee customization: strength, temperature, and quantity.
+- Coffee grinding and brewing simulation.
+- Scheduled or immediate coffee preparation.
+- Status indication on an LCD display and LED bar.
+- Remote control for user interaction.
+
 ![cIRCUITO DESENVOLVIDO](media/5.JPG)
 
 ---
@@ -43,6 +44,7 @@ Remote control for user interaction.
 
 ##  Simulation  
 Check out the full simulation on Wokwi by clicking [here](https://wokwi.com/projects/422226074874479617). 
+
 ![cIRCUITO DESENVOLVIDO](media/7.JPG)
 
 ---
