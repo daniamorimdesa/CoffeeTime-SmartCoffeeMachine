@@ -1,5 +1,5 @@
 # Coffee Time - Smart Coffee Machine ☕ 
-**Final Project – EmbarcaTech Program**  
+**_Final Project – EmbarcaTech Program_**  
 
 ## About the Project
 Coffee Time is a smart coffee machine developed as the final project for the EmbarcaTech course, simulating personalized coffee preparation with adjustable strength, temperature, and quantity. The system integrates sensors and actuators for monitoring and control, fully simulated on the Wokwi platform.
