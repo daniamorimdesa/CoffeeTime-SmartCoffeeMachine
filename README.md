@@ -82,13 +82,20 @@ Check out the full simulation on Wokwi by clicking [here](https://wokwi.com/proj
 - **lcd_i2c..c / lcd_i2c.h:** LCD display control.
 ---
 
-## 📖 Complete Documentation
+## Future Improvements
+- Add Wi-Fi connectivity for remote control via smartphone
+- Implement a coffee strength learning algorithm
+- Integrate a database for tracking coffee consumption
+
+---
+
+## Complete Documentation
 Detailed project documentation is available in the following PDF:
 
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
