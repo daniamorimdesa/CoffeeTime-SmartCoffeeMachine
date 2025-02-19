@@ -51,7 +51,7 @@ Check out the full simulation on Wokwi by clicking [here](https://wokwi.com/proj
 
 ## How to Run the Project
 1. Clone this repository: 
-   ```sh
+   ```
    git clone https://github.com/seu-usuario/coffeetime.git
    ```
 2. Open the project on [Wokwi](https://wokwi.com) or in your local development environment.
