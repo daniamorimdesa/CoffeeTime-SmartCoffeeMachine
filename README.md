@@ -89,12 +89,6 @@ Check out the full simulation on Wokwi by clicking [here](https://wokwi.com/proj
 
 ---
 
-## Complete Documentation
-Detailed project documentation is available in the following PDF: _(work in progress)_
-
-
----
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
