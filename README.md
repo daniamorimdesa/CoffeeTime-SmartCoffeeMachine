@@ -64,11 +64,11 @@ Check out the full simulation on Wokwi by clicking [here](https://wokwi.com/proj
 ```
 📂 CoffeeTime-SmartCoffeeMachine
 ├── main.c                       → Main function and control loop
-├── sensores.h / sensores.c       → ADC, DHT22, RTC readings, and resource verification
-├── atuadores.h / atuadores.c     → Servo motors, stepper motor, and LED control
-├── interface_usuario.h / interface_usuario.c → Menus, screens, and user interaction
-├── estado.h / estado.c           → Machine state management and transitions
-├── controle_ir.h / controle_ir.c → IR remote control event handling
+├── sensors.h / sensors.c       → ADC, DHT22, RTC readings, and resource verification
+├── actuators.h / actuators.c     → Servo motors, stepper motor, and LED control
+├── user_interface.h / user_interface.c → Menus, screens, and user interaction
+├── state.h / state.c           → Machine state management and transitions
+├── ir_control.h / ir_control.c → IR remote control event handling
 └── lcd_i2c.h / lcd_i2c.c         → LCD display control
 ```
 
