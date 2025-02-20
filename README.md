@@ -80,12 +80,18 @@ Check out the full simulation on Wokwi by clicking [here](https://wokwi.com/proj
 - **sensores.c / sensores.h**:  Sensor data reading and processing.
 - **controle_ir.c / controle_ir.h**: Handling and interpreting commands from the IR remote control.
 - **lcd_i2c..c / lcd_i2c.h:** LCD display control.
+  
 ---
 
 ## Future Improvements
 - Add Wi-Fi connectivity for remote control via smartphone
 - Implement a coffee strength learning algorithm
 - Integrate a database for tracking coffee consumption
+
+---
+
+## Complete Documentation
+Detailed project documentation is available [here](https://github.com/daniamorimdesa/CoffeeTime-SmartCoffeeMachine/tree/main/docs).
 
 ---
 
