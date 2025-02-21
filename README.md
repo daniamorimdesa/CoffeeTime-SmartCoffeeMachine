@@ -88,6 +88,8 @@ Check out the full simulation on Wokwi by clicking [here](https://wokwi.com/proj
 - Implement a coffee strength learning algorithm
 - Integrate a database for tracking coffee consumption
 
+Check out our [Future Enhancements](https://github.com/daniamorimdesa/CoffeeTime-SmartCoffeeMachine/blob/main/docs/Future%20Enhancements.pdf) for upcoming features and IoT integration!
+
 ---
 
 ## Complete Documentation
